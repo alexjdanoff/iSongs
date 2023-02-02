@@ -6,7 +6,6 @@
 //
 
 import UIKit
-import AVKit
 
 protocol SearchDisplayLogic: AnyObject {
     func displayData(viewModel: Search.Model.ViewModel.ViewModelData)
@@ -21,7 +20,6 @@ final class SearchViewController: UIViewController {
     private let searchBar = UISearchBar()
     private let tableView = UITableView()
     private let activityIndicator = UIActivityIndicatorView()
-    private let player = AVPlayer()
     
     private var searchViewModel = SearchViewModel.init(cells: [])
     private var timer: Timer?
