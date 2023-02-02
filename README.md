@@ -1,4 +1,4 @@
-![crypto-logo-1-3](https://user-images.githubusercontent.com/91346577/216351388-fac015f8-5c19-41bf-82b9-73ea28e98109.png)
+![crypto-logo-1-3](https://user-images.githubusercontent.com/91346577/216353869-c8299d1f-3551-4007-81fd-df17818b6fb4.png)
 
 # iSongs App
 
